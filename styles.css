@@ -52,3 +52,12 @@ footer {
 .contact-form button:hover {
     background: #004080;
 }
+.logo-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 60px;
+}
